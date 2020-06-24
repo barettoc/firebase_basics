@@ -1,3 +1,6 @@
+# firebase_basics
+Learn how to setup a simple Web Application that leverages Firebase. The application presents the user with an option to login to google and shows them login information.
+
 # Reference https://firebase.google.com/docs/cli
 # Create a Basic Firebase App with
 # Node,Google Firebase
@@ -11,7 +14,7 @@ Clone this repository.
 # Sign up for a google Account
 https://accounts.google.com/
 
-# Node & Tools
+# Install Node & Tools
 Install Node.js - https://nodejs.org/ (v12) or greater
 
 Install Firebase Tools
