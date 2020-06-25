@@ -1,9 +1,8 @@
-# firebase_basics
-Learn how to setup a simple Web Application that leverages Firebase. The application presents the user with an option to login to google and shows them login information.
+# Firebase Basics - Create a Basic Firebase App with Firebase, Node, Google
+
+Setup a simple Web Application that leverages Firebase. The application presents the user with an option to login to google and shows them Credential and Token(JWT) information.
 
 # Reference https://firebase.google.com/docs/cli
-# Create a Basic Firebase App with
-# Node,Google Firebase
 
 ## Getting Started
 
@@ -28,8 +27,7 @@ Signup for Google Firebase - https://console.firebase.google.com/
 
 Sign in to Google
 
-
-## To run the code
+## To run the code (Locally)
 switch to the command line. cd to the directory where you downloaded the code.
 ```cd ``` to the directory where the code exists
 
@@ -70,5 +68,6 @@ Navigate to ```http://localhost:5000``` in your browser, click on 'Login with Go
 
 Command line. ```firebase deploy```. 
 
-Navigate to your app using the Hosting URL:.
+Navigate to your app using the Hosting URL: https://xxxxx.web.app.
 
+You can also try the app that is currently hosted at https://cb-firebasics.web.app/
